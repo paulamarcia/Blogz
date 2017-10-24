@@ -1,1 +1,1 @@
-# buikd-a-blog
+# blogz
